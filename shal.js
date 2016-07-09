@@ -50,7 +50,16 @@ for (i = 1; i < noOfRow-1; i++) {
         {
           final_obj1[header[cnt_area]]=line[cnt_area];
           final_obj1[header[cnt_wo]]=line[cnt_wo];
-            arr_edu.push(final_obj1);
+          final_obj1[header[cnt_below]]=line[cnt_below];
+          final_obj1[header[cnt_pri]]=line[cnt_pri];
+          final_obj1[header[cnt_mid]]=line[cnt_mid];
+          final_obj1[header[cnt_sec]]=line[cnt_sec];
+          final_obj1[header[cnt_high]]=line[cnt_high];
+          final_obj1[header[cnt_non]]=line[cnt_non];
+          final_obj1[header[cnt_tech]]=line[cnt_tech];
+          final_obj1[header[cnt_grad]]=line[cnt_grad];
+          final_obj1[header[cnt_unclas]]=line[cnt_unclas];
+          arr_edu.push(final_obj1);
         }
         final_obj1={};
     };
