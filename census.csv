@@ -1,29 +1,23 @@
-Table Name,State Code,Distt. Code,Area Name,Total/ Rural/ Urban,Age-group,Illiterate - Females,Literate - Persons
-C2308,1,0,State - JAMMU & KASHMIR,Total,All ages,3098078,7067233
-C2308,1,0,State - JAMMU & KASHMIR,Total,0-6,934550,0
-C2308,1,0,State - JAMMU & KASHMIR,Total,7,45715,179177
-C2308,1,0,State - JAMMU & KASHMIR,Total,8,31087,225552
-C2308,1,0,State - JAMMU & KASHMIR,Total,9,20617,5555
-C2308,1,0,State - JAMMU & KASHMIR,Total,10,27667,262171
-C2308,1,0,State - JAMMU & KASHMIR,Urban,80+,12452,12571
-C2308,1,0,State - JAMMU & KASHMIR,Urban,Age not stated,548,3137
-C2308,2,0,State - HIMACHAL PRADESH,Total,All ages,1095583,5039736
-C2308,2,0,State - HIMACHAL PRADESH,Total,0-6,370439,0
-C2308,2,0,State - HIMACHAL PRADESH,Total,7,9478,102554
-C2308,2,0,State - HIMACHAL PRADESH,Total,8,3157,110984
-C2308,2,0,State - HIMACHAL PRADESH,Urban,80+,1978,3891
-C2308,2,0,State - HIMACHAL PRADESH,Urban,Age not stated,56,658
-C2308,3,0,State - PUNJAB,Total,All ages,4832792,18707137
-C2308,3,0,State - PUNJAB,Total,0-6,1410225,0
-C2308,3,0,State - PUNJAB,Total,7,50517,374867
-C2308,3,0,State - PUNJAB,Total,8,26633,422462
-C2308,3,0,State - PUNJAB,Urban,80+,35280,50617
-C2308,3,0,State - PUNJAB,Urban,Age not stated,1702,8602
-C2308,4,0,State - CHANDIGARH,Total,All ages,134695,805438
-C2308,4,0,State - CHANDIGARH,Total,0-6,55898,0
-C2308,4,0,State - CHANDIGARH,Total,7,1523,15452
-C2308,4,0,State - CHANDIGARH,Total,Age not stated,51,259
-C2308,4,0,State - CHANDIGARH,Rural,All ages,4632,19961
-C2308,4,0,State - CHANDIGARH,Rural,0-6,1988,0
-C2308,4,0,State - CHANDIGARH,Rural,7,60,455
-C2308,4,0,State - CHANDIGARH,Rural,8,27,499
+Area Name,Total/ Rural/ Urban,Age-group,Illiterate - Females,Literate - Persons
+State - JAMMU & KASHMIR,Total,All ages,3098078,1
+State - JAMMU & KASHMIR,Total,0-6,934550,2
+State - JAMMU & KASHMIR,Total,7,45715,3
+State - JAMMU & KASHMIR,Total,8,31087,4
+State - JAMMU & KASHMIR,Total,9,20617,5
+State - JAMMU & KASHMIR,Total,10,27667,6
+State - JAMMU & KASHMIR,Urban,80+,12452,7
+State - JAMMU & KASHMIR,Urban,Age not stated,548,8
+State - HIMACHAL PRADESH,Total,All ages,1095583,9
+State - HIMACHAL PRADESH,Total,0-6,370439,10
+State - HIMACHAL PRADESH,Total,7,9478,11
+State - HIMACHAL PRADESH,Total,8,3157,12
+State - PUNJAB,Total,All ages,4832792,13
+State - PUNJAB,Total,0-6,1410225,14
+State - PUNJAB,Total,7,50517,15
+State - PUNJAB,Urban,Age not stated,1702,16
+State - CHANDIGARH,Total,All ages,134695,17
+State - CHANDIGARH,Total,0-6,55898,18
+State - CHANDIGARH,Total,7,1523,19
+State - CHANDIGARH,Total,Age not stated,51,20
+State - CHANDIGARH,Rural,All ages,4632,21
+State - CHANDIGARH,Rural,0-6,1988,22

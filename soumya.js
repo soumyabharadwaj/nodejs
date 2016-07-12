@@ -44,8 +44,6 @@ for (var i = 1; i < rows.length - 1; i++) {
 
   }
 
-
-
   if(line[cnt_age] !='0-6' && line[cnt_age] !='All ages' && line[cnt_total]=='Total')
   {
     final_obj[line[cnt_area]]+=parseInt(line[cnt_lit]);

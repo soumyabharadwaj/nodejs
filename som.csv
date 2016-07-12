@@ -1,0 +1,17 @@
+state,tot,age,cat1,cat2,cat3
+jk,total,all ages,10,20,30
+jk,rur,0-6,5,5,5
+jk,rur,7,4,4,4
+jk,urban,8,3,3,3
+raj,total,all ages,10,20,30
+raj,rural,0-6,5,5,5
+raj,rural,7,4,4,4
+raj,urban,8,3,3,3
+tamil,total,all ages,10,20,30
+tamil,rural,0-6,5,5,5
+tamil,rural,7,4,4,4
+tamil,urban,8,3,3,3
+maha,total,all ages,10,20,30
+maha,urban,0-6,5,5,5
+maha,rural,7,4,4,4
+maha,rural,8,3,3,3
