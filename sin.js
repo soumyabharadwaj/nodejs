@@ -22,7 +22,7 @@ cnt_unclas = header.indexOf('Educational level - Unclassified - Persons');
 
 
 var final_obj={};
-
+var tryArr=[];
 for (var i = 1; i < rows.length - 1; i++) {
 
   var line=rows[i].split(',');
@@ -57,4 +57,13 @@ for (var i = 1; i < rows.length - 1; i++) {
   }
 
 };
+
+var tryObj={
+  final_obj.each(function(key,value) {
+      tryObj.category=final_obj[key];
+      tryObj.value=final_obj[value];
+  });
+  }
+}
+tryArr.push(tryObj);
 console.log(final_obj);

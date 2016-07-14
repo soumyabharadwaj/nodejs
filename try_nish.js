@@ -6,9 +6,11 @@ var indexOfArea,indexOfAge,indexOfLit,indexOfTotal;
 var cnt_wo,cnt_below,cnt_pri,cnt_mid,cnt_sec,cnt_high,cnt_non,cnt_tech,cnt_unclas,cnt_grad ;
 var obj={};
 var obj1={};
+var write1='age_lit.json';
+var write2='edu_cat.json'
 var i=0,j=0;
 
-function calc(data) {
+function calc(data,write1,write2) {
   var stringData=data.toString();
   var arrayOne= stringData.split('\r\n');
   var header=arrayOne[0].split(',');
@@ -72,11 +74,18 @@ function calc(data) {
 
     }
   } //for
+
+  var file1 = write1;
+  var obj_age = JSON.stringify(obj);
+  fs.writeFileSync(file1, obj_age);
+
+  var file2 = write2;
+  var obj_edu = JSON.stringify(obj1);
+  fs.writeFileSync(file2, obj_edu);
 } //finction
 
-calc(data);
-calc(data2);
-calc(data1);
-
+calc(data,write1,write2);
+calc(data1,write1,write2);
+calc(data2,write1,write2);
 console.log(obj);
 console.log(obj1);

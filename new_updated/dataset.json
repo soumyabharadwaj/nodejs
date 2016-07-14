@@ -1,0 +1,4727 @@
+[
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "7",
+    "LiteratePopulation": 36468
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "7",
+    "LiteratePopulation": 33937
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "7",
+    "LiteratePopulation": 134160
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "7",
+    "LiteratePopulation": 3245
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "7",
+    "LiteratePopulation": 39122
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "7",
+    "LiteratePopulation": 86927
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "7",
+    "LiteratePopulation": 42087
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "7",
+    "LiteratePopulation": 326783
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "7",
+    "LiteratePopulation": 739803
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "7",
+    "LiteratePopulation": 295184
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "7",
+    "LiteratePopulation": 3648
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "7",
+    "LiteratePopulation": 13451
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "7",
+    "LiteratePopulation": 25315
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "7",
+    "LiteratePopulation": 15915
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "7",
+    "LiteratePopulation": 18224
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "7",
+    "LiteratePopulation": 28828
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "7",
+    "LiteratePopulation": 37555
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "7",
+    "LiteratePopulation": 101678
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "7",
+    "LiteratePopulation": 391761
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "7",
+    "LiteratePopulation": 200680
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "7",
+    "LiteratePopulation": 249174
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "7",
+    "LiteratePopulation": 161426
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "7",
+    "LiteratePopulation": 443077
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "7",
+    "LiteratePopulation": 215994
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "7",
+    "LiteratePopulation": 347
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "7",
+    "LiteratePopulation": 3894
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "7",
+    "LiteratePopulation": 347695
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "7",
+    "LiteratePopulation": 271448
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "7",
+    "LiteratePopulation": 207044
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "7",
+    "LiteratePopulation": 2236
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "7",
+    "LiteratePopulation": 749
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "7",
+    "LiteratePopulation": 43851
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "7",
+    "LiteratePopulation": 215446
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "7",
+    "LiteratePopulation": 2697
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "7",
+    "LiteratePopulation": 298
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "8",
+    "LiteratePopulation": 45664
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "8",
+    "LiteratePopulation": 36969
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "8",
+    "LiteratePopulation": 152766
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "8",
+    "LiteratePopulation": 3406
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "8",
+    "LiteratePopulation": 47260
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "8",
+    "LiteratePopulation": 102008
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "8",
+    "LiteratePopulation": 49592
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "8",
+    "LiteratePopulation": 471544
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "8",
+    "LiteratePopulation": 1003370
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "8",
+    "LiteratePopulation": 475980
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "8",
+    "LiteratePopulation": 3941
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "8",
+    "LiteratePopulation": 17379
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "8",
+    "LiteratePopulation": 31529
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "8",
+    "LiteratePopulation": 19079
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "8",
+    "LiteratePopulation": 19922
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "8",
+    "LiteratePopulation": 34686
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "8",
+    "LiteratePopulation": 47951
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "8",
+    "LiteratePopulation": 115894
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "8",
+    "LiteratePopulation": 466772
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "8",
+    "LiteratePopulation": 289334
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "8",
+    "LiteratePopulation": 324030
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "8",
+    "LiteratePopulation": 223191
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "8",
+    "LiteratePopulation": 614604
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "8",
+    "LiteratePopulation": 248933
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "8",
+    "LiteratePopulation": 358
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "8",
+    "LiteratePopulation": 4642
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "8",
+    "LiteratePopulation": 423191
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "8",
+    "LiteratePopulation": 340850
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "8",
+    "LiteratePopulation": 259091
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "8",
+    "LiteratePopulation": 2359
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "8",
+    "LiteratePopulation": 805
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "8",
+    "LiteratePopulation": 48544
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "8",
+    "LiteratePopulation": 245410
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "8",
+    "LiteratePopulation": 3115
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "8",
+    "LiteratePopulation": 293
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "9",
+    "LiteratePopulation": 42646
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "9",
+    "LiteratePopulation": 38099
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "9",
+    "LiteratePopulation": 151260
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "9",
+    "LiteratePopulation": 3497
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "9",
+    "LiteratePopulation": 45199
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "9",
+    "LiteratePopulation": 96170
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "9",
+    "LiteratePopulation": 47347
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "9",
+    "LiteratePopulation": 390479
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "9",
+    "LiteratePopulation": 822284
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "9",
+    "LiteratePopulation": 338386
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "9",
+    "LiteratePopulation": 4459
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "9",
+    "LiteratePopulation": 17149
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "9",
+    "LiteratePopulation": 32162
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "9",
+    "LiteratePopulation": 18905
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "9",
+    "LiteratePopulation": 20299
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "9",
+    "LiteratePopulation": 34380
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "9",
+    "LiteratePopulation": 49640
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "9",
+    "LiteratePopulation": 108976
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "9",
+    "LiteratePopulation": 454373
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "9",
+    "LiteratePopulation": 227036
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "9",
+    "LiteratePopulation": 309191
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "9",
+    "LiteratePopulation": 216956
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "9",
+    "LiteratePopulation": 538289
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "9",
+    "LiteratePopulation": 247716
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "9",
+    "LiteratePopulation": 360
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "9",
+    "LiteratePopulation": 4317
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "9",
+    "LiteratePopulation": 444794
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "9",
+    "LiteratePopulation": 348214
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "9",
+    "LiteratePopulation": 266893
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "9",
+    "LiteratePopulation": 2517
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "9",
+    "LiteratePopulation": 1084
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "9",
+    "LiteratePopulation": 51308
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "9",
+    "LiteratePopulation": 254677
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "9",
+    "LiteratePopulation": 3427
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "9",
+    "LiteratePopulation": 348
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "10",
+    "LiteratePopulation": 51697
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "10",
+    "LiteratePopulation": 42925
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "10",
+    "LiteratePopulation": 177442
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "10",
+    "LiteratePopulation": 4175
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "10",
+    "LiteratePopulation": 56209
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "10",
+    "LiteratePopulation": 117261
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "10",
+    "LiteratePopulation": 61603
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "10",
+    "LiteratePopulation": 564496
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "10",
+    "LiteratePopulation": 1221719
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "10",
+    "LiteratePopulation": 552388
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "10",
+    "LiteratePopulation": 5082
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "10",
+    "LiteratePopulation": 21813
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "10",
+    "LiteratePopulation": 39640
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "10",
+    "LiteratePopulation": 24522
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "10",
+    "LiteratePopulation": 22315
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "10",
+    "LiteratePopulation": 38887
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "10",
+    "LiteratePopulation": 60306
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "10",
+    "LiteratePopulation": 129912
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "10",
+    "LiteratePopulation": 547935
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "10",
+    "LiteratePopulation": 337955
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "10",
+    "LiteratePopulation": 361598
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "10",
+    "LiteratePopulation": 265692
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "10",
+    "LiteratePopulation": 705919
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "10",
+    "LiteratePopulation": 288006
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "10",
+    "LiteratePopulation": 431
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "10",
+    "LiteratePopulation": 5009
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "10",
+    "LiteratePopulation": 525161
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "10",
+    "LiteratePopulation": 430108
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "10",
+    "LiteratePopulation": 307807
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "10",
+    "LiteratePopulation": 3057
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "10",
+    "LiteratePopulation": 1219
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "10",
+    "LiteratePopulation": 60151
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "10",
+    "LiteratePopulation": 296352
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "10",
+    "LiteratePopulation": 3843
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "10",
+    "LiteratePopulation": 466
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "11",
+    "LiteratePopulation": 50020
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "11",
+    "LiteratePopulation": 41167
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "11",
+    "LiteratePopulation": 161670
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "11",
+    "LiteratePopulation": 3855
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "11",
+    "LiteratePopulation": 49520
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "11",
+    "LiteratePopulation": 105303
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "11",
+    "LiteratePopulation": 53864
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "11",
+    "LiteratePopulation": 432236
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "11",
+    "LiteratePopulation": 873118
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "11",
+    "LiteratePopulation": 326062
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "11",
+    "LiteratePopulation": 5018
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "11",
+    "LiteratePopulation": 20036
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "11",
+    "LiteratePopulation": 38120
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "11",
+    "LiteratePopulation": 23173
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "11",
+    "LiteratePopulation": 21095
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "11",
+    "LiteratePopulation": 37047
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "11",
+    "LiteratePopulation": 58402
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "11",
+    "LiteratePopulation": 117143
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "11",
+    "LiteratePopulation": 479691
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "11",
+    "LiteratePopulation": 235320
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "11",
+    "LiteratePopulation": 326565
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "11",
+    "LiteratePopulation": 238175
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "11",
+    "LiteratePopulation": 577431
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "11",
+    "LiteratePopulation": 272038
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "11",
+    "LiteratePopulation": 420
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "11",
+    "LiteratePopulation": 4951
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "11",
+    "LiteratePopulation": 492226
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "11",
+    "LiteratePopulation": 381376
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "11",
+    "LiteratePopulation": 283075
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "11",
+    "LiteratePopulation": 2954
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "11",
+    "LiteratePopulation": 1176
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "11",
+    "LiteratePopulation": 59018
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "11",
+    "LiteratePopulation": 278887
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "11",
+    "LiteratePopulation": 3902
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "11",
+    "LiteratePopulation": 436
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "12",
+    "LiteratePopulation": 52451
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "12",
+    "LiteratePopulation": 40846
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "12",
+    "LiteratePopulation": 174817
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "12",
+    "LiteratePopulation": 3894
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "12",
+    "LiteratePopulation": 56184
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "12",
+    "LiteratePopulation": 115910
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "12",
+    "LiteratePopulation": 58929
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "12",
+    "LiteratePopulation": 519658
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "12",
+    "LiteratePopulation": 1083649
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "12",
+    "LiteratePopulation": 445863
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "12",
+    "LiteratePopulation": 5257
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "12",
+    "LiteratePopulation": 23861
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "12",
+    "LiteratePopulation": 40401
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "12",
+    "LiteratePopulation": 25872
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "12",
+    "LiteratePopulation": 20964
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "12",
+    "LiteratePopulation": 40027
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "12",
+    "LiteratePopulation": 61064
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "12",
+    "LiteratePopulation": 136909
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "12",
+    "LiteratePopulation": 543976
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "12",
+    "LiteratePopulation": 329780
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "12",
+    "LiteratePopulation": 358645
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "12",
+    "LiteratePopulation": 246289
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "12",
+    "LiteratePopulation": 654211
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "12",
+    "LiteratePopulation": 273291
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "12",
+    "LiteratePopulation": 386
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "12",
+    "LiteratePopulation": 4520
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "12",
+    "LiteratePopulation": 481025
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "12",
+    "LiteratePopulation": 418199
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "12",
+    "LiteratePopulation": 297636
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "12",
+    "LiteratePopulation": 2638
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "12",
+    "LiteratePopulation": 1122
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "12",
+    "LiteratePopulation": 57107
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "12",
+    "LiteratePopulation": 283615
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "12",
+    "LiteratePopulation": 3661
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "12",
+    "LiteratePopulation": 381
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "13",
+    "LiteratePopulation": 47362
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "13",
+    "LiteratePopulation": 40190
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "13",
+    "LiteratePopulation": 170921
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "13",
+    "LiteratePopulation": 3658
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "13",
+    "LiteratePopulation": 50384
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "13",
+    "LiteratePopulation": 105338
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "13",
+    "LiteratePopulation": 54120
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "13",
+    "LiteratePopulation": 421354
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "13",
+    "LiteratePopulation": 848214
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "13",
+    "LiteratePopulation": 284090
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "13",
+    "LiteratePopulation": 5291
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "13",
+    "LiteratePopulation": 21281
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "13",
+    "LiteratePopulation": 38382
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "13",
+    "LiteratePopulation": 24516
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "13",
+    "LiteratePopulation": 20864
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "13",
+    "LiteratePopulation": 37249
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "13",
+    "LiteratePopulation": 57550
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "13",
+    "LiteratePopulation": 125757
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "13",
+    "LiteratePopulation": 503898
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "13",
+    "LiteratePopulation": 246081
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "13",
+    "LiteratePopulation": 315678
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "13",
+    "LiteratePopulation": 216647
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "13",
+    "LiteratePopulation": 537455
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "13",
+    "LiteratePopulation": 253800
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "13",
+    "LiteratePopulation": 418
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "13",
+    "LiteratePopulation": 4533
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "13",
+    "LiteratePopulation": 463553
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "13",
+    "LiteratePopulation": 387176
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "13",
+    "LiteratePopulation": 273934
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "13",
+    "LiteratePopulation": 2760
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "13",
+    "LiteratePopulation": 1111
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "13",
+    "LiteratePopulation": 61976
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "13",
+    "LiteratePopulation": 287673
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "13",
+    "LiteratePopulation": 3645
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "13",
+    "LiteratePopulation": 408
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "14",
+    "LiteratePopulation": 46051
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "14",
+    "LiteratePopulation": 40966
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "14",
+    "LiteratePopulation": 174204
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "14",
+    "LiteratePopulation": 3876
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "14",
+    "LiteratePopulation": 52223
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "14",
+    "LiteratePopulation": 106997
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "14",
+    "LiteratePopulation": 57137
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "14",
+    "LiteratePopulation": 427214
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "14",
+    "LiteratePopulation": 930585
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "14",
+    "LiteratePopulation": 283623
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "14",
+    "LiteratePopulation": 5300
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "14",
+    "LiteratePopulation": 23023
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "14",
+    "LiteratePopulation": 38523
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "14",
+    "LiteratePopulation": 26122
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "14",
+    "LiteratePopulation": 20716
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "14",
+    "LiteratePopulation": 36445
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "14",
+    "LiteratePopulation": 57757
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "14",
+    "LiteratePopulation": 129220
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "14",
+    "LiteratePopulation": 516029
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "14",
+    "LiteratePopulation": 252465
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "14",
+    "LiteratePopulation": 304404
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "14",
+    "LiteratePopulation": 218267
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "14",
+    "LiteratePopulation": 535809
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "14",
+    "LiteratePopulation": 247085
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "14",
+    "LiteratePopulation": 387
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "14",
+    "LiteratePopulation": 4017
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "14",
+    "LiteratePopulation": 454337
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "14",
+    "LiteratePopulation": 390068
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "14",
+    "LiteratePopulation": 283214
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "14",
+    "LiteratePopulation": 2669
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "14",
+    "LiteratePopulation": 1075
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "14",
+    "LiteratePopulation": 58270
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "14",
+    "LiteratePopulation": 281707
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "14",
+    "LiteratePopulation": 3593
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "14",
+    "LiteratePopulation": 457
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "15",
+    "LiteratePopulation": 44985
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "15",
+    "LiteratePopulation": 40534
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "15",
+    "LiteratePopulation": 178676
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "15",
+    "LiteratePopulation": 3767
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "15",
+    "LiteratePopulation": 52937
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "15",
+    "LiteratePopulation": 111864
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "15",
+    "LiteratePopulation": 59106
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "15",
+    "LiteratePopulation": 433242
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "15",
+    "LiteratePopulation": 968802
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "15",
+    "LiteratePopulation": 269967
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "15",
+    "LiteratePopulation": 5066
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "15",
+    "LiteratePopulation": 23255
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "15",
+    "LiteratePopulation": 40436
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "15",
+    "LiteratePopulation": 27403
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "15",
+    "LiteratePopulation": 20441
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "15",
+    "LiteratePopulation": 37212
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "15",
+    "LiteratePopulation": 55978
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "15",
+    "LiteratePopulation": 130140
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "15",
+    "LiteratePopulation": 510061
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "15",
+    "LiteratePopulation": 247300
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "15",
+    "LiteratePopulation": 303495
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "15",
+    "LiteratePopulation": 215913
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "15",
+    "LiteratePopulation": 516432
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "15",
+    "LiteratePopulation": 249242
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "15",
+    "LiteratePopulation": 404
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "15",
+    "LiteratePopulation": 3701
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "15",
+    "LiteratePopulation": 454280
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "15",
+    "LiteratePopulation": 384250
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "15",
+    "LiteratePopulation": 281184
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "15",
+    "LiteratePopulation": 2795
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "15",
+    "LiteratePopulation": 1129
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "15",
+    "LiteratePopulation": 55439
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "15",
+    "LiteratePopulation": 292140
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "15",
+    "LiteratePopulation": 3641
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "15",
+    "LiteratePopulation": 484
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "16",
+    "LiteratePopulation": 41671
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "16",
+    "LiteratePopulation": 40162
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "16",
+    "LiteratePopulation": 177754
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "16",
+    "LiteratePopulation": 3970
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "16",
+    "LiteratePopulation": 51109
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "16",
+    "LiteratePopulation": 108809
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "16",
+    "LiteratePopulation": 58329
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "16",
+    "LiteratePopulation": 409152
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "16",
+    "LiteratePopulation": 901129
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "16",
+    "LiteratePopulation": 221130
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "16",
+    "LiteratePopulation": 5161
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "16",
+    "LiteratePopulation": 21192
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "16",
+    "LiteratePopulation": 39223
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "16",
+    "LiteratePopulation": 25601
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "16",
+    "LiteratePopulation": 20467
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "16",
+    "LiteratePopulation": 36523
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "16",
+    "LiteratePopulation": 54881
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "16",
+    "LiteratePopulation": 121824
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "16",
+    "LiteratePopulation": 485170
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "16",
+    "LiteratePopulation": 210730
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "16",
+    "LiteratePopulation": 258658
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "16",
+    "LiteratePopulation": 207754
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "16",
+    "LiteratePopulation": 478413
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "16",
+    "LiteratePopulation": 228416
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "16",
+    "LiteratePopulation": 462
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "16",
+    "LiteratePopulation": 3361
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "16",
+    "LiteratePopulation": 448091
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "16",
+    "LiteratePopulation": 350979
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "16",
+    "LiteratePopulation": 273515
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "16",
+    "LiteratePopulation": 2675
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "16",
+    "LiteratePopulation": 1094
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "16",
+    "LiteratePopulation": 50651
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "16",
+    "LiteratePopulation": 264726
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "16",
+    "LiteratePopulation": 3294
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "16",
+    "LiteratePopulation": 439
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "17",
+    "LiteratePopulation": 35747
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "17",
+    "LiteratePopulation": 39309
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "17",
+    "LiteratePopulation": 163527
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "17",
+    "LiteratePopulation": 3736
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "17",
+    "LiteratePopulation": 44785
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "17",
+    "LiteratePopulation": 94022
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "17",
+    "LiteratePopulation": 54865
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "17",
+    "LiteratePopulation": 308336
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "17",
+    "LiteratePopulation": 682219
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "17",
+    "LiteratePopulation": 138315
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "17",
+    "LiteratePopulation": 5136
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "17",
+    "LiteratePopulation": 17876
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "17",
+    "LiteratePopulation": 34873
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "17",
+    "LiteratePopulation": 23354
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "17",
+    "LiteratePopulation": 19643
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "17",
+    "LiteratePopulation": 33315
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "17",
+    "LiteratePopulation": 48638
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "17",
+    "LiteratePopulation": 101066
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "17",
+    "LiteratePopulation": 431356
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "17",
+    "LiteratePopulation": 148546
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "17",
+    "LiteratePopulation": 217163
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "17",
+    "LiteratePopulation": 176360
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "17",
+    "LiteratePopulation": 377449
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "17",
+    "LiteratePopulation": 209486
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "17",
+    "LiteratePopulation": 453
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "17",
+    "LiteratePopulation": 2966
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "17",
+    "LiteratePopulation": 409286
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "17",
+    "LiteratePopulation": 319499
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "17",
+    "LiteratePopulation": 242855
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "17",
+    "LiteratePopulation": 2642
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "17",
+    "LiteratePopulation": 1100
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "17",
+    "LiteratePopulation": 50728
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "17",
+    "LiteratePopulation": 265462
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "17",
+    "LiteratePopulation": 3313
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "17",
+    "LiteratePopulation": 413
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "18",
+    "LiteratePopulation": 41124
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "18",
+    "LiteratePopulation": 42617
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "18",
+    "LiteratePopulation": 188047
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "18",
+    "LiteratePopulation": 4610
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "18",
+    "LiteratePopulation": 54378
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "18",
+    "LiteratePopulation": 115594
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "18",
+    "LiteratePopulation": 68210
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "18",
+    "LiteratePopulation": 425993
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "18",
+    "LiteratePopulation": 970660
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "18",
+    "LiteratePopulation": 218871
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "18",
+    "LiteratePopulation": 5374
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "18",
+    "LiteratePopulation": 21034
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "18",
+    "LiteratePopulation": 38749
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "18",
+    "LiteratePopulation": 28428
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "18",
+    "LiteratePopulation": 20300
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "18",
+    "LiteratePopulation": 38132
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "18",
+    "LiteratePopulation": 50880
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "18",
+    "LiteratePopulation": 125039
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "18",
+    "LiteratePopulation": 548555
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "18",
+    "LiteratePopulation": 212636
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "18",
+    "LiteratePopulation": 283362
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "18",
+    "LiteratePopulation": 213112
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "18",
+    "LiteratePopulation": 480785
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "18",
+    "LiteratePopulation": 230556
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "18",
+    "LiteratePopulation": 485
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "18",
+    "LiteratePopulation": 3256
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "18",
+    "LiteratePopulation": 477984
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "18",
+    "LiteratePopulation": 401444
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "18",
+    "LiteratePopulation": 320823
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "18",
+    "LiteratePopulation": 2898
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "18",
+    "LiteratePopulation": 1092
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "18",
+    "LiteratePopulation": 52915
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "18",
+    "LiteratePopulation": 296687
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "18",
+    "LiteratePopulation": 3599
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "18",
+    "LiteratePopulation": 474
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "19",
+    "LiteratePopulation": 30628
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "19",
+    "LiteratePopulation": 38439
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "19",
+    "LiteratePopulation": 149518
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "19",
+    "LiteratePopulation": 3802
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "19",
+    "LiteratePopulation": 41341
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "19",
+    "LiteratePopulation": 87630
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "19",
+    "LiteratePopulation": 53471
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "19",
+    "LiteratePopulation": 260940
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "19",
+    "LiteratePopulation": 558453
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "19",
+    "LiteratePopulation": 123475
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "19",
+    "LiteratePopulation": 4704
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "19",
+    "LiteratePopulation": 15288
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "19",
+    "LiteratePopulation": 31068
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "19",
+    "LiteratePopulation": 22064
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "19",
+    "LiteratePopulation": 18842
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "19",
+    "LiteratePopulation": 33550
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "19",
+    "LiteratePopulation": 42088
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "19",
+    "LiteratePopulation": 97883
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "19",
+    "LiteratePopulation": 430930
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "19",
+    "LiteratePopulation": 129009
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "19",
+    "LiteratePopulation": 198791
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "19",
+    "LiteratePopulation": 159676
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "19",
+    "LiteratePopulation": 329956
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "19",
+    "LiteratePopulation": 189101
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "19",
+    "LiteratePopulation": 404
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "19",
+    "LiteratePopulation": 2833
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "19",
+    "LiteratePopulation": 396965
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "19",
+    "LiteratePopulation": 309733
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "19",
+    "LiteratePopulation": 242624
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "19",
+    "LiteratePopulation": 2859
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "19",
+    "LiteratePopulation": 970
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "19",
+    "LiteratePopulation": 51551
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "19",
+    "LiteratePopulation": 278043
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "19",
+    "LiteratePopulation": 3700
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "19",
+    "LiteratePopulation": 465
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 150752
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 193984
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 724775
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 19928
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 187044
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 432334
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 291466
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 1319611
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 2574113
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 650116
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 23124
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 69207
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 154767
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 110807
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 97345
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 172737
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 201949
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 489234
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 2108974
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 662600
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 1043728
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 790886
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 1576279
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 930656
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 2224
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 13241
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 2044065
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 1473848
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 1198367
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 14714
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 5345
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 285012
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 1349520
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 18153
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "20-24",
+    "LiteratePopulation": 2365
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 119350
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 165318
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 549733
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 16186
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 136476
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 323234
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 240567
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 903861
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 1773811
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 555906
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 20648
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 56535
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 126536
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 91480
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 88303
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 150003
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 165038
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 447082
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 1729044
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 542907
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 874413
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 590938
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 1112976
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 783953
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 1975
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 9784
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 1683183
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 1128766
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 972467
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 15848
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 5388
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 310137
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 1248945
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 19270
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "25-29",
+    "LiteratePopulation": 2262
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 90643
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 140326
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 394866
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 11940
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 101495
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 231938
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 179360
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 673456
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 1325524
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 460407
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 15559
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 41740
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 105367
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 69452
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 76595
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 116753
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 118228
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 343431
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 1288139
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 412302
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 645058
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 441802
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 854736
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 656284
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 1703
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 6862
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 1315118
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 785474
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 659185
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 14931
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 4916
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 271101
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 899720
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 14563
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "30-34",
+    "LiteratePopulation": 2154
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 72273
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 121696
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 327735
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 9973
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 87907
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 184369
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 151271
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 540725
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 1153552
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 381149
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 12739
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 34257
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 85180
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 56219
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 61987
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 105534
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 100344
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 307186
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 1183870
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 344028
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 568041
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 375831
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 695657
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 551029
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 1557
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 5449
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 1124655
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 658646
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 567382
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 13747
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 4848
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 281770
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 781571
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 11765
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "35-39",
+    "LiteratePopulation": 1959
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 52127
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 90493
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 259454
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 7696
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 65667
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 123764
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 112997
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 389321
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 833464
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 258989
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 9629
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 23345
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 68310
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 46199
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 48398
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 80682
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 77712
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 218493
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 902387
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 252452
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 433184
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 276613
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 507341
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 429108
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 1024
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 3573
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 871989
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 426851
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 385675
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 9744
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 4038
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 233624
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 563371
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 8110
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "40-44",
+    "LiteratePopulation": 1459
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 37330
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 70858
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 196628
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 6206
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 50202
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 85514
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 84745
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 271534
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 606940
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 179069
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 6766
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 15295
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 52541
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 38378
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 45217
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 65252
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 62252
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 177484
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 698593
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 195931
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 338267
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 204771
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 362982
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 318363
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 683
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 2584
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 655442
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 292743
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 300429
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 7368
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 3229
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 208365
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 467929
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 6373
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "45-49",
+    "LiteratePopulation": 1089
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 26082
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 52215
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 130275
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 4300
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 34921
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 56344
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 57259
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 189771
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 427511
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 124115
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 5110
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 8351
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 37116
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 28971
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 37387
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 47269
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 42651
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 119483
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 510924
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 135195
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 241567
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 138396
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 246971
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 230198
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 503
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 1587
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 501600
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 194152
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 194269
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 5055
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 2499
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 148809
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 320569
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 4233
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "50-54",
+    "LiteratePopulation": 771
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 16655
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 37787
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 88496
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 2873
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 24445
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 38897
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 37286
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 123853
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 300669
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 91661
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 3297
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 4049
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 23069
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 18917
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 26440
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 31222
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 27591
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 83815
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 369423
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 103171
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 183436
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 104679
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 168963
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 162857
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 309
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 1043
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 364720
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 136713
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 143014
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 3383
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 2282
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 127645
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 236866
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 3036
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "55-59",
+    "LiteratePopulation": 563
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 12594
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 25498
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 72764
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 1629
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 23814
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 35798
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 30304
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 98743
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 286849
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 91463
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 2131
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 2969
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 17718
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 13518
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 20660
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 24178
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 21892
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 65041
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 270659
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 85065
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 157018
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 80032
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 138469
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 119681
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 221
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 704
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 289881
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 122307
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 113425
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 2550
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 1453
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 86273
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 169133
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 1878
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "60-64",
+    "LiteratePopulation": 262
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 6889
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 14345
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 48548
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 816
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 13772
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 19523
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 14588
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 60211
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 175625
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 59687
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 1553
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 1704
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 11211
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 7756
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 13476
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 16482
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 14781
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 41798
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 178521
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 51458
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 91517
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 50405
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 85346
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 71447
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 137
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 384
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 214244
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 77588
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 75263
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 1351
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 875
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 52054
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 93614
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 944
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "65-69",
+    "LiteratePopulation": 172
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 4267
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 8266
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 25672
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 455
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 8089
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 10698
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 7927
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 35282
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 105337
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 33246
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 960
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 921
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 6566
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 4947
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 9769
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 10952
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 8536
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 27427
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 104802
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 26544
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 57970
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 28289
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 50275
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 42775
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 78
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 143
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 124091
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 43621
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 44520
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 764
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 424
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 28882
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 57294
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 575
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "70-74",
+    "LiteratePopulation": 123
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 1843
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 3664
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 9961
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 166
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 3275
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 4072
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 2854
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 13040
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 39191
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 11095
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 481
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 413
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 3856
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 2690
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 6144
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 5693
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 4541
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 13523
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 53128
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 10606
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 24113
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 11160
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 19293
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 16850
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 38
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 52
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 52734
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 16196
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 19564
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 390
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 248
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 16343
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 24253
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 269
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "75-79",
+    "LiteratePopulation": 54
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 3242
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 4367
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 15706
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 242
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 4270
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 6302
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 3761
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 17928
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 77528
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 17496
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 502
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 1100
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 4409
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 3299
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 6030
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 7152
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 5705
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 15942
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 70670
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 12850
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 25969
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 14679
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 31853
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 20994
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 31
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 92
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 61388
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 23412
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 25227
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 375
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 228
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 15005
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 23525
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 305
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "80+",
+    "LiteratePopulation": 47
+  },
+  {
+    "AreaName": " JAMMU & KASHMIR",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 1246
+  },
+  {
+    "AreaName": " HIMACHAL PRADESH",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 2110
+  },
+  {
+    "AreaName": " PUNJAB",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 7677
+  },
+  {
+    "AreaName": " CHANDIGARH",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 33
+  },
+  {
+    "AreaName": " UTTARAKHAND",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 2324
+  },
+  {
+    "AreaName": " HARYANA",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 3675
+  },
+  {
+    "AreaName": " NCT OF DELHI",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 1814
+  },
+  {
+    "AreaName": " RAJASTHAN",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 42048
+  },
+  {
+    "AreaName": " UTTAR PRADESH",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 180905
+  },
+  {
+    "AreaName": " BIHAR",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 32505
+  },
+  {
+    "AreaName": " SIKKIM",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 350
+  },
+  {
+    "AreaName": " ARUNACHAL PRADESH",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 649
+  },
+  {
+    "AreaName": " NAGALAND",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 907
+  },
+  {
+    "AreaName": " MANIPUR",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 2311
+  },
+  {
+    "AreaName": " MIZORAM",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 430
+  },
+  {
+    "AreaName": " TRIPURA",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 456
+  },
+  {
+    "AreaName": " MEGHALAYA",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 2948
+  },
+  {
+    "AreaName": " ASSAM",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 2156
+  },
+  {
+    "AreaName": " WEST BENGAL",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 12377
+  },
+  {
+    "AreaName": " JHARKHAND",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 19127
+  },
+  {
+    "AreaName": " ODISHA",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 24338
+  },
+  {
+    "AreaName": " CHHATTISGARH",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 4334
+  },
+  {
+    "AreaName": " MADHYA PRADESH",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 13506
+  },
+  {
+    "AreaName": " GUJARAT",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 35201
+  },
+  {
+    "AreaName": " DAMAN & DIU",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 13
+  },
+  {
+    "AreaName": " DADRA & NAGAR HAVELI",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 106
+  },
+  {
+    "AreaName": " MAHARASHTRA",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 51131
+  },
+  {
+    "AreaName": " ANDHRA PRADESH",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 97325
+  },
+  {
+    "AreaName": " KARNATAKA",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 7192
+  },
+  {
+    "AreaName": " GOA",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 139
+  },
+  {
+    "AreaName": " LAKSHADWEEP",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 77
+  },
+  {
+    "AreaName": " KERALA",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 2480
+  },
+  {
+    "AreaName": " TAMIL NADU",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 9329
+  },
+  {
+    "AreaName": " PUDUCHERRY",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 125
+  },
+  {
+    "AreaName": " ANDAMAN & NICOBAR ISLANDS",
+    "AgeGroup": "Age not stated",
+    "LiteratePopulation": 16
+  }
+]

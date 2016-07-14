@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+    <style>
+ .bar{
+   fill:#FCAB10 ;
+ }
+ .bar:hover{
+   fill:#2B9EB3 ;
+ }
+ .axis {
+   font: 10px sans-serif;
+ }
+ .axis path,
+ .axis line {
+   fill:#2B9EB3 ;
+   opacity: 0.3;
+   stroke: #000;
+      shape-rendering: crispEdges;
+ }
+</style>
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+		<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<div id="mbars"></div>
+	<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+body {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: steelblue;
+}
+
+.x.axis path {
+  display: none;
+}
+
+</style>
+<body>
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script>
+var margin = {top: 20, right: 20, bottom: 30, left: 40},
+    width = 1300 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+var x = d3.scale.ordinal()
+    .rangeRoundBands([0, width], .1);
+
+var y = d3.scale.linear()
+    .rangeRound([height, 0]);
+
+var color = d3.scale.ordinal()
+    .range([
+			"#B0171F",
+"#DC143C",
+"#FFB6C1",
+"#FFAEB9",
+"#EEA2AD",
+"#CD8C95",
+"#8B5F65",
+"#FFC0CB",
+"#FFB5C5",
+"#EEA9B8",
+"#CD919E",
+"#8B636C",
+"#DB7093",
+"#FF82AB",
+"#EE799F",
+"#CD6889",
+"#8B475D",
+"#FFF0F5",
+"#EEE0E5",
+"#CDC1C5",
+"#8B8386",
+"#FF3E96",
+"#EE3A8C",
+"#CD3278",
+"#8B2252",
+"#FF69B4",
+"#FF6EB4",
+"#EE6AA7",
+"#CD6090",
+"#8B3A62",
+"#872657",
+"#FF1493",
+"#EE1289",
+"#CD1076",
+"#8B0A50"
+]);
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left")
+    .tickFormat(d3.format(".2s"));
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+//  var data = [{"State - JAMMU & KASHMIR":36468,"State - HIMACHAL PRADESH":33937,"State - PUNJAB":134160,"State - CHANDIGARH":3245,"State - UTTARAKHAND":39122,"State - HARYANA":86927,"State - NCT OF DELHI":42087,"State - RAJASTHAN":326783,"State - UTTAR PRADESH":739803,"State - BIHAR":295184,"State - SIKKIM":3648,"State - ARUNACHAL PRADESH":13451,"State - NAGALAND":25315,"State - MANIPUR":15915,"State - MIZORAM":18224,"State - TRIPURA":28828,"State - MEGHALAYA":37555,"State - ASSAM":101678,"State - WEST BENGAL":391761,"State - JHARKHAND":200680,"State - ODISHA":249174,"State - CHHATTISGARH":161426,"State - MADHYA PRADESH":443077,"State - GUJARAT":215994,"State - DAMAN & DIU":347,"State - DADRA & NAGAR HAVELI":3894,"State - MAHARASHTRA":347695,"State - ANDHRA PRADESH":271448,"State - KARNATAKA":207044,"State - GOA":2236,"State - LAKSHADWEEP":749,"State - KERALA":43851,"State - TAMIL NADU":215446,"State - PUDUCHERRY":2697,"State - ANDAMAN & NICOBAR ISLANDS":298,"age-group":"7"},{"State - JAMMU & KASHMIR":45664,"State - HIMACHAL PRADESH":36969,"State - PUNJAB":152766,"State - CHANDIGARH":3406,"State - UTTARAKHAND":47260,"State - HARYANA":102008,"State - NCT OF DELHI":49592,"State - RAJASTHAN":471544,"State - UTTAR PRADESH":1003370,"State - BIHAR":475980,"State - SIKKIM":3941,"State - ARUNACHAL PRADESH":17379,"State - NAGALAND":31529,"State - MANIPUR":19079,"State - MIZORAM":19922,"State - TRIPURA":34686,"State - MEGHALAYA":47951,"State - ASSAM":115894,"State - WEST BENGAL":466772,"State - JHARKHAND":289334,"State - ODISHA":324030,"State - CHHATTISGARH":223191,"State - MADHYA PRADESH":614604,"State - GUJARAT":248933,"State - DAMAN & DIU":358,"State - DADRA & NAGAR HAVELI":4642,"State - MAHARASHTRA":423191,"State - ANDHRA PRADESH":340850,"State - KARNATAKA":259091,"State - GOA":2359,"State - LAKSHADWEEP":805,"State - KERALA":48544,"State - TAMIL NADU":245410,"State - PUDUCHERRY":3115,"State - ANDAMAN & NICOBAR ISLANDS":293,"age-group":"8"},{"State - JAMMU & KASHMIR":42646,"State - HIMACHAL PRADESH":38099,"State - PUNJAB":151260,"State - CHANDIGARH":3497,"State - UTTARAKHAND":45199,"State - HARYANA":96170,"State - NCT OF DELHI":47347,"State - RAJASTHAN":390479,"State - UTTAR PRADESH":822284,"State - BIHAR":338386,"State - SIKKIM":4459,"State - ARUNACHAL PRADESH":17149,"State - NAGALAND":32162,"State - MANIPUR":18905,"State - MIZORAM":20299,"State - TRIPURA":34380,"State - MEGHALAYA":49640,"State - ASSAM":108976,"State - WEST BENGAL":454373,"State - JHARKHAND":227036,"State - ODISHA":309191,"State - CHHATTISGARH":216956,"State - MADHYA PRADESH":538289,"State - GUJARAT":247716,"State - DAMAN & DIU":360,"State - DADRA & NAGAR HAVELI":4317,"State - MAHARASHTRA":444794,"State - ANDHRA PRADESH":348214,"State - KARNATAKA":266893,"State - GOA":2517,"State - LAKSHADWEEP":1084,"State - KERALA":51308,"State - TAMIL NADU":254677,"State - PUDUCHERRY":3427,"State - ANDAMAN & NICOBAR ISLANDS":348,"age-group":"9"},{"State - JAMMU & KASHMIR":51697,"State - HIMACHAL PRADESH":42925,"State - PUNJAB":177442,"State - CHANDIGARH":4175,"State - UTTARAKHAND":56209,"State - HARYANA":117261,"State - NCT OF DELHI":61603,"State - RAJASTHAN":564496,"State - UTTAR PRADESH":1221719,"State - BIHAR":552388,"State - SIKKIM":5082,"State - ARUNACHAL PRADESH":21813,"State - NAGALAND":39640,"State - MANIPUR":24522,"State - MIZORAM":22315,"State - TRIPURA":38887,"State - MEGHALAYA":60306,"State - ASSAM":129912,"State - WEST BENGAL":547935,"State - JHARKHAND":337955,"State - ODISHA":361598,"State - CHHATTISGARH":265692,"State - MADHYA PRADESH":705919,"State - GUJARAT":288006,"State - DAMAN & DIU":431,"State - DADRA & NAGAR HAVELI":5009,"State - MAHARASHTRA":525161,"State - ANDHRA PRADESH":430108,"State - KARNATAKA":307807,"State - GOA":3057,"State - LAKSHADWEEP":1219,"State - KERALA":60151,"State - TAMIL NADU":296352,"State - PUDUCHERRY":3843,"State - ANDAMAN & NICOBAR ISLANDS":466,"age-group":"10"},{"State - JAMMU & KASHMIR":50020,"State - HIMACHAL PRADESH":41167,"State - PUNJAB":161670,"State - CHANDIGARH":3855,"State - UTTARAKHAND":49520,"State - HARYANA":105303,"State - NCT OF DELHI":53864,"State - RAJASTHAN":432236,"State - UTTAR PRADESH":873118,"State - BIHAR":326062,"State - SIKKIM":5018,"State - ARUNACHAL PRADESH":20036,"State - NAGALAND":38120,"State - MANIPUR":23173,"State - MIZORAM":21095,"State - TRIPURA":37047,"State - MEGHALAYA":58402,"State - ASSAM":117143,"State - WEST BENGAL":479691,"State - JHARKHAND":235320,"State - ODISHA":326565,"State - CHHATTISGARH":238175,"State - MADHYA PRADESH":577431,"State - GUJARAT":272038,"State - DAMAN & DIU":420,"State - DADRA & NAGAR HAVELI":4951,"State - MAHARASHTRA":492226,"State - ANDHRA PRADESH":381376,"State - KARNATAKA":283075,"State - GOA":2954,"State - LAKSHADWEEP":1176,"State - KERALA":59018,"State - TAMIL NADU":278887,"State - PUDUCHERRY":3902,"State - ANDAMAN & NICOBAR ISLANDS":436,"age-group":"11"},{"State - JAMMU & KASHMIR":52451,"State - HIMACHAL PRADESH":40846,"State - PUNJAB":174817,"State - CHANDIGARH":3894,"State - UTTARAKHAND":56184,"State - HARYANA":115910,"State - NCT OF DELHI":58929,"State - RAJASTHAN":519658,"State - UTTAR PRADESH":1083649,"State - BIHAR":445863,"State - SIKKIM":5257,"State - ARUNACHAL PRADESH":23861,"State - NAGALAND":40401,"State - MANIPUR":25872,"State - MIZORAM":20964,"State - TRIPURA":40027,"State - MEGHALAYA":61064,"State - ASSAM":136909,"State - WEST BENGAL":543976,"State - JHARKHAND":329780,"State - ODISHA":358645,"State - CHHATTISGARH":246289,"State - MADHYA PRADESH":654211,"State - GUJARAT":273291,"State - DAMAN & DIU":386,"State - DADRA & NAGAR HAVELI":4520,"State - MAHARASHTRA":481025,"State - ANDHRA PRADESH":418199,"State - KARNATAKA":297636,"State - GOA":2638,"State - LAKSHADWEEP":1122,"State - KERALA":57107,"State - TAMIL NADU":283615,"State - PUDUCHERRY":3661,"State - ANDAMAN & NICOBAR ISLANDS":381,"age-group":"12"},{"State - JAMMU & KASHMIR":47362,"State - HIMACHAL PRADESH":40190,"State - PUNJAB":170921,"State - CHANDIGARH":3658,"State - UTTARAKHAND":50384,"State - HARYANA":105338,"State - NCT OF DELHI":54120,"State - RAJASTHAN":421354,"State - UTTAR PRADESH":848214,"State - BIHAR":284090,"State - SIKKIM":5291,"State - ARUNACHAL PRADESH":21281,"State - NAGALAND":38382,"State - MANIPUR":24516,"State - MIZORAM":20864,"State - TRIPURA":37249,"State - MEGHALAYA":57550,"State - ASSAM":125757,"State - WEST BENGAL":503898,"State - JHARKHAND":246081,"State - ODISHA":315678,"State - CHHATTISGARH":216647,"State - MADHYA PRADESH":537455,"State - GUJARAT":253800,"State - DAMAN & DIU":418,"State - DADRA & NAGAR HAVELI":4533,"State - MAHARASHTRA":463553,"State - ANDHRA PRADESH":387176,"State - KARNATAKA":273934,"State - GOA":2760,"State - LAKSHADWEEP":1111,"State - KERALA":61976,"State - TAMIL NADU":287673,"State - PUDUCHERRY":3645,"State - ANDAMAN & NICOBAR ISLANDS":408,"age-group":"13"},{"State - JAMMU & KASHMIR":46051,"State - HIMACHAL PRADESH":40966,"State - PUNJAB":174204,"State - CHANDIGARH":3876,"State - UTTARAKHAND":52223,"State - HARYANA":106997,"State - NCT OF DELHI":57137,"State - RAJASTHAN":427214,"State - UTTAR PRADESH":930585,"State - BIHAR":283623,"State - SIKKIM":5300,"State - ARUNACHAL PRADESH":23023,"State - NAGALAND":38523,"State - MANIPUR":26122,"State - MIZORAM":20716,"State - TRIPURA":36445,"State - MEGHALAYA":57757,"State - ASSAM":129220,"State - WEST BENGAL":516029,"State - JHARKHAND":252465,"State - ODISHA":304404,"State - CHHATTISGARH":218267,"State - MADHYA PRADESH":535809,"State - GUJARAT":247085,"State - DAMAN & DIU":387,"State - DADRA & NAGAR HAVELI":4017,"State - MAHARASHTRA":454337,"State - ANDHRA PRADESH":390068,"State - KARNATAKA":283214,"State - GOA":2669,"State - LAKSHADWEEP":1075,"State - KERALA":58270,"State - TAMIL NADU":281707,"State - PUDUCHERRY":3593,"State - ANDAMAN & NICOBAR ISLANDS":457,"age-group":"14"},{"State - JAMMU & KASHMIR":44985,"State - HIMACHAL PRADESH":40534,"State - PUNJAB":178676,"State - CHANDIGARH":3767,"State - UTTARAKHAND":52937,"State - HARYANA":111864,"State - NCT OF DELHI":59106,"State - RAJASTHAN":433242,"State - UTTAR PRADESH":968802,"State - BIHAR":269967,"State - SIKKIM":5066,"State - ARUNACHAL PRADESH":23255,"State - NAGALAND":40436,"State - MANIPUR":27403,"State - MIZORAM":20441,"State - TRIPURA":37212,"State - MEGHALAYA":55978,"State - ASSAM":130140,"State - WEST BENGAL":510061,"State - JHARKHAND":247300,"State - ODISHA":303495,"State - CHHATTISGARH":215913,"State - MADHYA PRADESH":516432,"State - GUJARAT":249242,"State - DAMAN & DIU":404,"State - DADRA & NAGAR HAVELI":3701,"State - MAHARASHTRA":454280,"State - ANDHRA PRADESH":384250,"State - KARNATAKA":281184,"State - GOA":2795,"State - LAKSHADWEEP":1129,"State - KERALA":55439,"State - TAMIL NADU":292140,"State - PUDUCHERRY":3641,"State - ANDAMAN & NICOBAR ISLANDS":484,"age-group":"15"},{"State - JAMMU & KASHMIR":41671,"State - HIMACHAL PRADESH":40162,"State - PUNJAB":177754,"State - CHANDIGARH":3970,"State - UTTARAKHAND":51109,"State - HARYANA":108809,"State - NCT OF DELHI":58329,"State - RAJASTHAN":409152,"State - UTTAR PRADESH":901129,"State - BIHAR":221130,"State - SIKKIM":5161,"State - ARUNACHAL PRADESH":21192,"State - NAGALAND":39223,"State - MANIPUR":25601,"State - MIZORAM":20467,"State - TRIPURA":36523,"State - MEGHALAYA":54881,"State - ASSAM":121824,"State - WEST BENGAL":485170,"State - JHARKHAND":210730,"State - ODISHA":258658,"State - CHHATTISGARH":207754,"State - MADHYA PRADESH":478413,"State - GUJARAT":228416,"State - DAMAN & DIU":462,"State - DADRA & NAGAR HAVELI":3361,"State - MAHARASHTRA":448091,"State - ANDHRA PRADESH":350979,"State - KARNATAKA":273515,"State - GOA":2675,"State - LAKSHADWEEP":1094,"State - KERALA":50651,"State - TAMIL NADU":264726,"State - PUDUCHERRY":3294,"State - ANDAMAN & NICOBAR ISLANDS":439,"age-group":"16"},{"State - JAMMU & KASHMIR":35747,"State - HIMACHAL PRADESH":39309,"State - PUNJAB":163527,"State - CHANDIGARH":3736,"State - UTTARAKHAND":44785,"State - HARYANA":94022,"State - NCT OF DELHI":54865,"State - RAJASTHAN":308336,"State - UTTAR PRADESH":682219,"State - BIHAR":138315,"State - SIKKIM":5136,"State - ARUNACHAL PRADESH":17876,"State - NAGALAND":34873,"State - MANIPUR":23354,"State - MIZORAM":19643,"State - TRIPURA":33315,"State - MEGHALAYA":48638,"State - ASSAM":101066,"State - WEST BENGAL":431356,"State - JHARKHAND":148546,"State - ODISHA":217163,"State - CHHATTISGARH":176360,"State - MADHYA PRADESH":377449,"State - GUJARAT":209486,"State - DAMAN & DIU":453,"State - DADRA & NAGAR HAVELI":2966,"State - MAHARASHTRA":409286,"State - ANDHRA PRADESH":319499,"State - KARNATAKA":242855,"State - GOA":2642,"State - LAKSHADWEEP":1100,"State - KERALA":50728,"State - TAMIL NADU":265462,"State - PUDUCHERRY":3313,"State - ANDAMAN & NICOBAR ISLANDS":413,"age-group":"17"},{"State - JAMMU & KASHMIR":41124,"State - HIMACHAL PRADESH":42617,"State - PUNJAB":188047,"State - CHANDIGARH":4610,"State - UTTARAKHAND":54378,"State - HARYANA":115594,"State - NCT OF DELHI":68210,"State - RAJASTHAN":425993,"State - UTTAR PRADESH":970660,"State - BIHAR":218871,"State - SIKKIM":5374,"State - ARUNACHAL PRADESH":21034,"State - NAGALAND":38749,"State - MANIPUR":28428,"State - MIZORAM":20300,"State - TRIPURA":38132,"State - MEGHALAYA":50880,"State - ASSAM":125039,"State - WEST BENGAL":548555,"State - JHARKHAND":212636,"State - ODISHA":283362,"State - CHHATTISGARH":213112,"State - MADHYA PRADESH":480785,"State - GUJARAT":230556,"State - DAMAN & DIU":485,"State - DADRA & NAGAR HAVELI":3256,"State - MAHARASHTRA":477984,"State - ANDHRA PRADESH":401444,"State - KARNATAKA":320823,"State - GOA":2898,"State - LAKSHADWEEP":1092,"State - KERALA":52915,"State - TAMIL NADU":296687,"State - PUDUCHERRY":3599,"State - ANDAMAN & NICOBAR ISLANDS":474,"age-group":"18"},{"State - JAMMU & KASHMIR":30628,"State - HIMACHAL PRADESH":38439,"State - PUNJAB":149518,"State - CHANDIGARH":3802,"State - UTTARAKHAND":41341,"State - HARYANA":87630,"State - NCT OF DELHI":53471,"State - RAJASTHAN":260940,"State - UTTAR PRADESH":558453,"State - BIHAR":123475,"State - SIKKIM":4704,"State - ARUNACHAL PRADESH":15288,"State - NAGALAND":31068,"State - MANIPUR":22064,"State - MIZORAM":18842,"State - TRIPURA":33550,"State - MEGHALAYA":42088,"State - ASSAM":97883,"State - WEST BENGAL":430930,"State - JHARKHAND":129009,"State - ODISHA":198791,"State - CHHATTISGARH":159676,"State - MADHYA PRADESH":329956,"State - GUJARAT":189101,"State - DAMAN & DIU":404,"State - DADRA & NAGAR HAVELI":2833,"State - MAHARASHTRA":396965,"State - ANDHRA PRADESH":309733,"State - KARNATAKA":242624,"State - GOA":2859,"State - LAKSHADWEEP":970,"State - KERALA":51551,"State - TAMIL NADU":278043,"State - PUDUCHERRY":3700,"State - ANDAMAN & NICOBAR ISLANDS":465,"age-group":"19"},{"State - JAMMU & KASHMIR":150752,"State - HIMACHAL PRADESH":193984,"State - PUNJAB":724775,"State - CHANDIGARH":19928,"State - UTTARAKHAND":187044,"State - HARYANA":432334,"State - NCT OF DELHI":291466,"State - RAJASTHAN":1319611,"State - UTTAR PRADESH":2574113,"State - BIHAR":650116,"State - SIKKIM":23124,"State - ARUNACHAL PRADESH":69207,"State - NAGALAND":154767,"State - MANIPUR":110807,"State - MIZORAM":97345,"State - TRIPURA":172737,"State - MEGHALAYA":201949,"State - ASSAM":489234,"State - WEST BENGAL":2108974,"State - JHARKHAND":662600,"State - ODISHA":1043728,"State - CHHATTISGARH":790886,"State - MADHYA PRADESH":1576279,"State - GUJARAT":930656,"State - DAMAN & DIU":2224,"State - DADRA & NAGAR HAVELI":13241,"State - MAHARASHTRA":2044065,"State - ANDHRA PRADESH":1473848,"State - KARNATAKA":1198367,"State - GOA":14714,"State - LAKSHADWEEP":5345,"State - KERALA":285012,"State - TAMIL NADU":1349520,"State - PUDUCHERRY":18153,"State - ANDAMAN & NICOBAR ISLANDS":2365,"age-group":"20-24"},{"State - JAMMU & KASHMIR":119350,"State - HIMACHAL PRADESH":165318,"State - PUNJAB":549733,"State - CHANDIGARH":16186,"State - UTTARAKHAND":136476,"State - HARYANA":323234,"State - NCT OF DELHI":240567,"State - RAJASTHAN":903861,"State - UTTAR PRADESH":1773811,"State - BIHAR":555906,"State - SIKKIM":20648,"State - ARUNACHAL PRADESH":56535,"State - NAGALAND":126536,"State - MANIPUR":91480,"State - MIZORAM":88303,"State - TRIPURA":150003,"State - MEGHALAYA":165038,"State - ASSAM":447082,"State - WEST BENGAL":1729044,"State - JHARKHAND":542907,"State - ODISHA":874413,"State - CHHATTISGARH":590938,"State - MADHYA PRADESH":1112976,"State - GUJARAT":783953,"State - DAMAN & DIU":1975,"State - DADRA & NAGAR HAVELI":9784,"State - MAHARASHTRA":1683183,"State - ANDHRA PRADESH":1128766,"State - KARNATAKA":972467,"State - GOA":15848,"State - LAKSHADWEEP":5388,"State - KERALA":310137,"State - TAMIL NADU":1248945,"State - PUDUCHERRY":19270,"State - ANDAMAN & NICOBAR ISLANDS":2262,"age-group":"25-29"},{"State - JAMMU & KASHMIR":90643,"State - HIMACHAL PRADESH":140326,"State - PUNJAB":394866,"State - CHANDIGARH":11940,"State - UTTARAKHAND":101495,"State - HARYANA":231938,"State - NCT OF DELHI":179360,"State - RAJASTHAN":673456,"State - UTTAR PRADESH":1325524,"State - BIHAR":460407,"State - SIKKIM":15559,"State - ARUNACHAL PRADESH":41740,"State - NAGALAND":105367,"State - MANIPUR":69452,"State - MIZORAM":76595,"State - TRIPURA":116753,"State - MEGHALAYA":118228,"State - ASSAM":343431,"State - WEST BENGAL":1288139,"State - JHARKHAND":412302,"State - ODISHA":645058,"State - CHHATTISGARH":441802,"State - MADHYA PRADESH":854736,"State - GUJARAT":656284,"State - DAMAN & DIU":1703,"State - DADRA & NAGAR HAVELI":6862,"State - MAHARASHTRA":1315118,"State - ANDHRA PRADESH":785474,"State - KARNATAKA":659185,"State - GOA":14931,"State - LAKSHADWEEP":4916,"State - KERALA":271101,"State - TAMIL NADU":899720,"State - PUDUCHERRY":14563,"State - ANDAMAN & NICOBAR ISLANDS":2154,"age-group":"30-34"},{"State - JAMMU & KASHMIR":72273,"State - HIMACHAL PRADESH":121696,"State - PUNJAB":327735,"State - CHANDIGARH":9973,"State - UTTARAKHAND":87907,"State - HARYANA":184369,"State - NCT OF DELHI":151271,"State - RAJASTHAN":540725,"State - UTTAR PRADESH":1153552,"State - BIHAR":381149,"State - SIKKIM":12739,"State - ARUNACHAL PRADESH":34257,"State - NAGALAND":85180,"State - MANIPUR":56219,"State - MIZORAM":61987,"State - TRIPURA":105534,"State - MEGHALAYA":100344,"State - ASSAM":307186,"State - WEST BENGAL":1183870,"State - JHARKHAND":344028,"State - ODISHA":568041,"State - CHHATTISGARH":375831,"State - MADHYA PRADESH":695657,"State - GUJARAT":551029,"State - DAMAN & DIU":1557,"State - DADRA & NAGAR HAVELI":5449,"State - MAHARASHTRA":1124655,"State - ANDHRA PRADESH":658646,"State - KARNATAKA":567382,"State - GOA":13747,"State - LAKSHADWEEP":4848,"State - KERALA":281770,"State - TAMIL NADU":781571,"State - PUDUCHERRY":11765,"State - ANDAMAN & NICOBAR ISLANDS":1959,"age-group":"35-39"},{"State - JAMMU & KASHMIR":52127,"State - HIMACHAL PRADESH":90493,"State - PUNJAB":259454,"State - CHANDIGARH":7696,"State - UTTARAKHAND":65667,"State - HARYANA":123764,"State - NCT OF DELHI":112997,"State - RAJASTHAN":389321,"State - UTTAR PRADESH":833464,"State - BIHAR":258989,"State - SIKKIM":9629,"State - ARUNACHAL PRADESH":23345,"State - NAGALAND":68310,"State - MANIPUR":46199,"State - MIZORAM":48398,"State - TRIPURA":80682,"State - MEGHALAYA":77712,"State - ASSAM":218493,"State - WEST BENGAL":902387,"State - JHARKHAND":252452,"State - ODISHA":433184,"State - CHHATTISGARH":276613,"State - MADHYA PRADESH":507341,"State - GUJARAT":429108,"State - DAMAN & DIU":1024,"State - DADRA & NAGAR HAVELI":3573,"State - MAHARASHTRA":871989,"State - ANDHRA PRADESH":426851,"State - KARNATAKA":385675,"State - GOA":9744,"State - LAKSHADWEEP":4038,"State - KERALA":233624,"State - TAMIL NADU":563371,"State - PUDUCHERRY":8110,"State - ANDAMAN & NICOBAR ISLANDS":1459,"age-group":"40-44"},{"State - JAMMU & KASHMIR":37330,"State - HIMACHAL PRADESH":70858,"State - PUNJAB":196628,"State - CHANDIGARH":6206,"State - UTTARAKHAND":50202,"State - HARYANA":85514,"State - NCT OF DELHI":84745,"State - RAJASTHAN":271534,"State - UTTAR PRADESH":606940,"State - BIHAR":179069,"State - SIKKIM":6766,"State - ARUNACHAL PRADESH":15295,"State - NAGALAND":52541,"State - MANIPUR":38378,"State - MIZORAM":45217,"State - TRIPURA":65252,"State - MEGHALAYA":62252,"State - ASSAM":177484,"State - WEST BENGAL":698593,"State - JHARKHAND":195931,"State - ODISHA":338267,"State - CHHATTISGARH":204771,"State - MADHYA PRADESH":362982,"State - GUJARAT":318363,"State - DAMAN & DIU":683,"State - DADRA & NAGAR HAVELI":2584,"State - MAHARASHTRA":655442,"State - ANDHRA PRADESH":292743,"State - KARNATAKA":300429,"State - GOA":7368,"State - LAKSHADWEEP":3229,"State - KERALA":208365,"State - TAMIL NADU":467929,"State - PUDUCHERRY":6373,"State - ANDAMAN & NICOBAR ISLANDS":1089,"age-group":"45-49"},{"State - JAMMU & KASHMIR":26082,"State - HIMACHAL PRADESH":52215,"State - PUNJAB":130275,"State - CHANDIGARH":4300,"State - UTTARAKHAND":34921,"State - HARYANA":56344,"State - NCT OF DELHI":57259,"State - RAJASTHAN":189771,"State - UTTAR PRADESH":427511,"State - BIHAR":124115,"State - SIKKIM":5110,"State - ARUNACHAL PRADESH":8351,"State - NAGALAND":37116,"State - MANIPUR":28971,"State - MIZORAM":37387,"State - TRIPURA":47269,"State - MEGHALAYA":42651,"State - ASSAM":119483,"State - WEST BENGAL":510924,"State - JHARKHAND":135195,"State - ODISHA":241567,"State - CHHATTISGARH":138396,"State - MADHYA PRADESH":246971,"State - GUJARAT":230198,"State - DAMAN & DIU":503,"State - DADRA & NAGAR HAVELI":1587,"State - MAHARASHTRA":501600,"State - ANDHRA PRADESH":194152,"State - KARNATAKA":194269,"State - GOA":5055,"State - LAKSHADWEEP":2499,"State - KERALA":148809,"State - TAMIL NADU":320569,"State - PUDUCHERRY":4233,"State - ANDAMAN & NICOBAR ISLANDS":771,"age-group":"50-54"},{"State - JAMMU & KASHMIR":16655,"State - HIMACHAL PRADESH":37787,"State - PUNJAB":88496,"State - CHANDIGARH":2873,"State - UTTARAKHAND":24445,"State - HARYANA":38897,"State - NCT OF DELHI":37286,"State - RAJASTHAN":123853,"State - UTTAR PRADESH":300669,"State - BIHAR":91661,"State - SIKKIM":3297,"State - ARUNACHAL PRADESH":4049,"State - NAGALAND":23069,"State - MANIPUR":18917,"State - MIZORAM":26440,"State - TRIPURA":31222,"State - MEGHALAYA":27591,"State - ASSAM":83815,"State - WEST BENGAL":369423,"State - JHARKHAND":103171,"State - ODISHA":183436,"State - CHHATTISGARH":104679,"State - MADHYA PRADESH":168963,"State - GUJARAT":162857,"State - DAMAN & DIU":309,"State - DADRA & NAGAR HAVELI":1043,"State - MAHARASHTRA":364720,"State - ANDHRA PRADESH":136713,"State - KARNATAKA":143014,"State - GOA":3383,"State - LAKSHADWEEP":2282,"State - KERALA":127645,"State - TAMIL NADU":236866,"State - PUDUCHERRY":3036,"State - ANDAMAN & NICOBAR ISLANDS":563,"age-group":"55-59"},{"State - JAMMU & KASHMIR":12594,"State - HIMACHAL PRADESH":25498,"State - PUNJAB":72764,"State - CHANDIGARH":1629,"State - UTTARAKHAND":23814,"State - HARYANA":35798,"State - NCT OF DELHI":30304,"State - RAJASTHAN":98743,"State - UTTAR PRADESH":286849,"State - BIHAR":91463,"State - SIKKIM":2131,"State - ARUNACHAL PRADESH":2969,"State - NAGALAND":17718,"State - MANIPUR":13518,"State - MIZORAM":20660,"State - TRIPURA":24178,"State - MEGHALAYA":21892,"State - ASSAM":65041,"State - WEST BENGAL":270659,"State - JHARKHAND":85065,"State - ODISHA":157018,"State - CHHATTISGARH":80032,"State - MADHYA PRADESH":138469,"State - GUJARAT":119681,"State - DAMAN & DIU":221,"State - DADRA & NAGAR HAVELI":704,"State - MAHARASHTRA":289881,"State - ANDHRA PRADESH":122307,"State - KARNATAKA":113425,"State - GOA":2550,"State - LAKSHADWEEP":1453,"State - KERALA":86273,"State - TAMIL NADU":169133,"State - PUDUCHERRY":1878,"State - ANDAMAN & NICOBAR ISLANDS":262,"age-group":"60-64"},{"State - JAMMU & KASHMIR":6889,"State - HIMACHAL PRADESH":14345,"State - PUNJAB":48548,"State - CHANDIGARH":816,"State - UTTARAKHAND":13772,"State - HARYANA":19523,"State - NCT OF DELHI":14588,"State - RAJASTHAN":60211,"State - UTTAR PRADESH":175625,"State - BIHAR":59687,"State - SIKKIM":1553,"State - ARUNACHAL PRADESH":1704,"State - NAGALAND":11211,"State - MANIPUR":7756,"State - MIZORAM":13476,"State - TRIPURA":16482,"State - MEGHALAYA":14781,"State - ASSAM":41798,"State - WEST BENGAL":178521,"State - JHARKHAND":51458,"State - ODISHA":91517,"State - CHHATTISGARH":50405,"State - MADHYA PRADESH":85346,"State - GUJARAT":71447,"State - DAMAN & DIU":137,"State - DADRA & NAGAR HAVELI":384,"State - MAHARASHTRA":214244,"State - ANDHRA PRADESH":77588,"State - KARNATAKA":75263,"State - GOA":1351,"State - LAKSHADWEEP":875,"State - KERALA":52054,"State - TAMIL NADU":93614,"State - PUDUCHERRY":944,"State - ANDAMAN & NICOBAR ISLANDS":172,"age-group":"65-69"},{"State - JAMMU & KASHMIR":4267,"State - HIMACHAL PRADESH":8266,"State - PUNJAB":25672,"State - CHANDIGARH":455,"State - UTTARAKHAND":8089,"State - HARYANA":10698,"State - NCT OF DELHI":7927,"State - RAJASTHAN":35282,"State - UTTAR PRADESH":105337,"State - BIHAR":33246,"State - SIKKIM":960,"State - ARUNACHAL PRADESH":921,"State - NAGALAND":6566,"State - MANIPUR":4947,"State - MIZORAM":9769,"State - TRIPURA":10952,"State - MEGHALAYA":8536,"State - ASSAM":27427,"State - WEST BENGAL":104802,"State - JHARKHAND":26544,"State - ODISHA":57970,"State - CHHATTISGARH":28289,"State - MADHYA PRADESH":50275,"State - GUJARAT":42775,"State - DAMAN & DIU":78,"State - DADRA & NAGAR HAVELI":143,"State - MAHARASHTRA":124091,"State - ANDHRA PRADESH":43621,"State - KARNATAKA":44520,"State - GOA":764,"State - LAKSHADWEEP":424,"State - KERALA":28882,"State - TAMIL NADU":57294,"State - PUDUCHERRY":575,"State - ANDAMAN & NICOBAR ISLANDS":123,"age-group":"70-74"},{"State - JAMMU & KASHMIR":1843,"State - HIMACHAL PRADESH":3664,"State - PUNJAB":9961,"State - CHANDIGARH":166,"State - UTTARAKHAND":3275,"State - HARYANA":4072,"State - NCT OF DELHI":2854,"State - RAJASTHAN":13040,"State - UTTAR PRADESH":39191,"State - BIHAR":11095,"State - SIKKIM":481,"State - ARUNACHAL PRADESH":413,"State - NAGALAND":3856,"State - MANIPUR":2690,"State - MIZORAM":6144,"State - TRIPURA":5693,"State - MEGHALAYA":4541,"State - ASSAM":13523,"State - WEST BENGAL":53128,"State - JHARKHAND":10606,"State - ODISHA":24113,"State - CHHATTISGARH":11160,"State - MADHYA PRADESH":19293,"State - GUJARAT":16850,"State - DAMAN & DIU":38,"State - DADRA & NAGAR HAVELI":52,"State - MAHARASHTRA":52734,"State - ANDHRA PRADESH":16196,"State - KARNATAKA":19564,"State - GOA":390,"State - LAKSHADWEEP":248,"State - KERALA":16343,"State - TAMIL NADU":24253,"State - PUDUCHERRY":269,"State - ANDAMAN & NICOBAR ISLANDS":54,"age-group":"75-79"},{"State - JAMMU & KASHMIR":3242,"State - HIMACHAL PRADESH":4367,"State - PUNJAB":15706,"State - CHANDIGARH":242,"State - UTTARAKHAND":4270,"State - HARYANA":6302,"State - NCT OF DELHI":3761,"State - RAJASTHAN":17928,"State - UTTAR PRADESH":77528,"State - BIHAR":17496,"State - SIKKIM":502,"State - ARUNACHAL PRADESH":1100,"State - NAGALAND":4409,"State - MANIPUR":3299,"State - MIZORAM":6030,"State - TRIPURA":7152,"State - MEGHALAYA":5705,"State - ASSAM":15942,"State - WEST BENGAL":70670,"State - JHARKHAND":12850,"State - ODISHA":25969,"State - CHHATTISGARH":14679,"State - MADHYA PRADESH":31853,"State - GUJARAT":20994,"State - DAMAN & DIU":31,"State - DADRA & NAGAR HAVELI":92,"State - MAHARASHTRA":61388,"State - ANDHRA PRADESH":23412,"State - KARNATAKA":25227,"State - GOA":375,"State - LAKSHADWEEP":228,"State - KERALA":15005,"State - TAMIL NADU":23525,"State - PUDUCHERRY":305,"State - ANDAMAN & NICOBAR ISLANDS":47,"age-group":"80+"},{"State - JAMMU & KASHMIR":1246,"State - HIMACHAL PRADESH":2110,"State - PUNJAB":7677,"State - CHANDIGARH":33,"State - UTTARAKHAND":2324,"State - HARYANA":3675,"State - NCT OF DELHI":1814,"State - RAJASTHAN":42048,"State - UTTAR PRADESH":180905,"State - BIHAR":32505,"State - SIKKIM":350,"State - ARUNACHAL PRADESH":649,"State - NAGALAND":907,"State - MANIPUR":2311,"State - MIZORAM":430,"State - TRIPURA":456,"State - MEGHALAYA":2948,"State - ASSAM":2156,"State - WEST BENGAL":12377,"State - JHARKHAND":19127,"State - ODISHA":24338,"State - CHHATTISGARH":4334,"State - MADHYA PRADESH":13506,"State - GUJARAT":35201,"State - DAMAN & DIU":13,"State - DADRA & NAGAR HAVELI":106,"State - MAHARASHTRA":51131,"State - ANDHRA PRADESH":97325,"State - KARNATAKA":7192,"State - GOA":139,"State - LAKSHADWEEP":77,"State - KERALA":2480,"State - TAMIL NADU":9329,"State - PUDUCHERRY":125,"State - ANDAMAN & NICOBAR ISLANDS":16,"age-group":"Age not stated"}];
+d3.json("file1.json", function(error, data) {
+
+  color.domain(d3.keys(data[0]).filter(function(key) { return key !== "age-group"; }));
+
+  data.forEach(function(d) {
+    var y0 = 0;
+    d.ages = color.domain().map(function(name) { return {name: name, y0: y0, y1: y0 += +d[name]}; });
+    d.total = d.ages[d.ages.length - 1].y1;
+  });
+
+  data.sort(function(a, b) { return b.total - a.total; });
+
+  x.domain(data.map(function(d) { return d['age-group']; }));
+  y.domain([0, d3.max(data, function(d) { return d.total; })]);
+
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
+
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis)
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("Population");
+
+  var state = svg.selectAll(".state")
+      .data(data)
+    .enter().append("g")
+      .attr("class", "g")
+      .attr("transform", function(d) { return "translate(" + x(d['age-group']) + ",0)"; });
+
+  state.selectAll("rect")
+      .data(function(d) { return d.ages; })
+    .enter().append("rect")
+      .attr("width", x.rangeBand())
+      .attr("y", function(d) { return y(d.y1); })
+      .attr("height", function(d) { return y(d.y0) - y(d.y1); })
+      .style("fill", function(d) { return color(d.name); });
+
+  var legend = svg.selectAll(".legend")
+      .data(color.domain().slice().reverse())
+    .enter().append("g")
+      .attr("class", "legend")
+      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
+  legend.append("rect")
+      .attr("x", 1200)
+      .attr("width", 18)
+      .attr("height", 18)
+      .style("fill", color);
+
+  legend.append("text")
+      .attr("x", 1200)
+      .attr("y", 9)
+      .attr("dy", ".35em")
+      .style("text-anchor", "end")
+      .text(function(d) { return d; });
+    });
+
+
+</script>
+</body>
